@@ -22,8 +22,8 @@ A simple command-line Caesar Cipher program written in Python that allows users 
    cd PRODIGY_CS_01```
 
 Run the Caesar Cipher script using:
-``` python3 caesar_cipher.py
-  ```
+
+``` python3 caesar_cipher.py```
 How It Works:
 
    - When prompted, choose 1 to encrypt a message or 2 to decrypt a message.
